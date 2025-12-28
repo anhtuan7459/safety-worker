@@ -1,0 +1,4 @@
+# Ket qua pick diem Camera 2 (192.168.66.14)
+# Format: Pixel_X Pixel_Y BIM_X BIM_Y
+#
+ 443  333      42.30      28.60

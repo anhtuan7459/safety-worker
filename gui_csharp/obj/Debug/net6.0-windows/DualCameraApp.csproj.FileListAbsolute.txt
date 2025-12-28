@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\Kỉ niệm\-N-main\gui_csharp\obj\Debug\net6.0-windows\DualCameraApp.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Kỉ niệm\-N-main\gui_csharp\obj\Debug\net6.0-windows\DualCameraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Kỉ niệm\-N-main\gui_csharp\obj\Debug\net6.0-windows\DualCameraApp.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Kỉ niệm\-N-main\gui_csharp\obj\Debug\net6.0-windows\DualCameraApp.AssemblyInfo.cs
+C:\Users\Acer\Documents\Kỉ niệm\-N-main\gui_csharp\obj\Debug\net6.0-windows\DualCameraApp.csproj.CoreCompileInputs.cache

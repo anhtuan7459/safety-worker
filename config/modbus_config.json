@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "port": "COM5",
+    "baudrate": 9600,
+    "slave_esp32": 1,
+    "slave_esp8266": 2
+}
